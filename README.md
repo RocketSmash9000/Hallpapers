@@ -1,7 +1,6 @@
-# Hallpapers
-H is gud, Hindows is great, show your inner H with a hallpaper
-
-
+# RocketSmash9000 - Hallpapers
+these are H themed wallpapers designed for Hindows.
+**this repo is no longer used.**
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
